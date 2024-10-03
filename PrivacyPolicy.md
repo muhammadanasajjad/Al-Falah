@@ -1,33 +1,50 @@
-# Privacy Policy
 
-**Effective Date:** 29th September 2024
+# Privacy Policy for Al Falah
 
-At Al Falah, your privacy is of utmost importance. This Privacy Policy explains how we handle and protect your information.
+**Effective Date:** 03/10/2024
 
-### 1. Information We Use
+At Al Falah, we are committed to protecting your privacy. This Privacy Policy explains how we use the permissions required by the app. No personal data is collected, shared, or stored externally, and all data remains local to your device.
 
-Al Falah uses the following features without collecting any personal data by keeping all personal info local to your device:
+## 1. Permissions We Use
 
-*   **Audio Recording**: The app may access your device’s microphone for audio recording purposes. This feature is used solely for recitations and does not store or transmit any audio data externally.
-*   **Location Data**: The app may access your location to calculate accurate prayer times. This data is used locally on your device and is not shared or uploaded to any servers.
+### Location
+- **Approximate location (network-based)** and **Precise location (GPS and network-based)**: Used for calculating accurate prayer times based on your location. This data is used locally and not shared.
 
-### 2. How We Use Your Information
+### Photos / Media / Files
+- **Read the contents of your USB storage** and **Modify or delete the contents of your USB storage**: These permissions are used to download and manage recitations and prayer time data.
 
-*   **Audio Recordings**: Audio recordings are used for personal use within the app for recitations and are not stored or transmitted anywhere. This is currently turned off but may be implemented in a future update.
-*   **Location Data**: Location data is used solely for calculating prayer times based on your current location and is not shared with any third parties.
+### Storage
+- **Read the contents of your USB storage** and **Modify or delete the contents of your USB storage**: Used for saving downloaded files like recitations for offline use.
 
-### 3. Data Sharing
+### Microphone
+- **Record audio**: This permission is used for identifying an ayat (verse) from the Quran. No audio is collected or shared.
 
-We do not collect, store, or share any of your personal data, including audio recordings or location information, with any third-party services or servers.
+### Wi-Fi connection information
+- **View Wi-Fi connections**: This is used to check the availability of a network for downloading recitations and prayer data.
 
-### 4. Data Security
+### Other Permissions
+- **Receive data from the Internet**: For downloading recitations or updates to prayer times.
+- **View network connections**: Used to verify if the app is connected to the internet.
+- **Full network access**: For downloading and updating content like recitations and prayer times.
+- **Change audio settings**: Used to adjust app audio settings while playing recitations.
+- **Run at startup**: Ensures the app is running in the background to update prayer times.
+- **Draw over other apps**: This permission is reserved for possible future features.
+- **Control vibration**: Used for notifications to provide haptic feedback.
+- **Prevent device from sleeping**: Ensures that recitations and prayer time notifications can be delivered without interruptions.
+- **Read Google service configuration**: This is used for ensuring compatibility with Google services.
 
-We take your privacy seriously and ensure that any data used within the app remains secure on your device.
+## 2. Data Usage
 
-### 5. Changes to This Privacy Policy
+Al Falah does not collect or share any personal information. The permissions listed are solely used to enhance the user experience by providing accurate prayer times, enabling recitations, and offering other Islamic resources.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+## 3. Data Security
 
-### 6. Contact Us
+All data is used locally on your device and never shared with third parties. We take every measure to ensure the security of your device’s data and your privacy.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: alfalah.web.app@gmail.com.
+## 4. Changes to This Privacy Policy
+
+We may update this Privacy Policy as needed. Any changes will be communicated through an update to this page.
+
+## 5. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at: [alfalah.web.app@gmail.com].
