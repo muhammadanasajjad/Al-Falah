@@ -7,7 +7,7 @@
 ## Features
 - **Tasbih (Digital Counter)**: Use the built-in digital Tasbih to keep track of your dhikr and daily supplications.
 
-- **Read Quran**: Access the Quran in Arabic and follow along with the translations to enhance your understanding of the holy text. And listen to amazing recitations.
+- **Read & Listen to Quran**: Access the Quran in Arabic and follow along with the translations to enhance your understanding of the holy text. And listen to amazing recitations.
   
 - **Read Hadith**: Browse collections of authentic Hadith to gain insights from the sayings and teachings of Prophet Muhammad (PBUH).
 
