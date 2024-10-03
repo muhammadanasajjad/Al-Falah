@@ -47,4 +47,4 @@ We may update this Privacy Policy as needed. Any changes will be communicated th
 
 ## 5. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, feel free to contact us at: [alfalah.web.app@gmail.com].
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at: alfalah.web.app@gmail.com.
