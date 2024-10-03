@@ -15,4 +15,4 @@
 
 
 ## Privacy Policy
-The app does not upload or share any of your personal data. You can read our full privacy policy [here](/PrivacyPolicy.md).
+The app does not collect or share any of your personal data by storing it all locally in your device. You can read our full privacy policy [here](/PrivacyPolicy.md).
