@@ -1,27 +1,3 @@
-{
-  "expo": {
-    "name": "QuranTest",
-    "slug": "QuranTest",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e00078ee3322e26f529142c54e703f8ecf2696858d55504cdf7bccd14530e0
+size 1727
